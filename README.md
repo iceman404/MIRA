@@ -1,2 +1,4 @@
+# Third Sem Project
 # MIRA
-Simple implementation of 8052
+
+Simple implementation of sim800l communication with 8052 MCU for serial communication. (Embedded Systems).

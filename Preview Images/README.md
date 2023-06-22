@@ -1,1 +1,1 @@
-**Some images of the project **
+---Some images of the project--

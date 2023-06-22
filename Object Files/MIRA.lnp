@@ -1,0 +1,3 @@
+".\Objects\main_program.obj" 
+TO ".\Objects\MIRA" 
+PRINT(".\Listings\MIRA.m51")
